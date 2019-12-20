@@ -1,0 +1,22 @@
+body{
+    background: #ffdabf;
+    font-family: cursive;
+    font-size: 20px;
+    width: 80%;
+    margin: 10px auto;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+    border: 3px double green;
+}
+li{
+    list-style: square;
+}
+a{
+    color: #952626;
+    text-decoration: none;
+}
+a:hover{
+    text-shadow: 1px 1px 2px white, -1px -1px 2px green;
+}

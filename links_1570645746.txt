@@ -1,0 +1,15 @@
+Типы данных - http://php.net/manual/ru/language.types.intro.php
+Переменные -  http://php.net/manual/ru/language.variables.basics.php
+Константы - http://php.net/manual/ru/reserved.constants.php
+Магические константы - http://php.net/manual/ru/language.constants.predefined.php
+Стандарт кодирования - https://www.php-fig.org/psr/psr-1/
+Онлайн PHP редактор - https://repl.it/repls/CostlyPrizeRotation
+1. Строковые функции - http://php.net/manual/ru/ref.strings.php
+1.1 http://www.php.su/htmlspecialchars
+2. Математические функции - http://php.net/manual/ru/ref.math.php
+2.1 Как происходит вычисление мин макс если есть буквы и слова - http://php.net/manual/ru/function.max.php
+3. Список всех функций - http://php.net/manual/ru/funcref.php
+4. Функции работы с массивами - http://php.net/manual/ru/book.array.php.
+5. Презентация https://slides.com/alex_novikov/deck-11#/
+Презентация - https://slides.com/alex_novikov/deck-9/
+Конструкции - https://slides.com/alex_novikov/deck-10#/
