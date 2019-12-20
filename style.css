@@ -1,18 +1,36 @@
 body{
-    background: #ffdabf;
+    background:  url("23-2147847682.jpg") center / cover no-repeat fixed;
+    /*opacity: 0.8;*/
     font-family: cursive;
     font-size: 20px;
-    width: 80%;
-    margin: 10px auto;
+    width: 70%;
+    margin: 0 auto;
 }
-p{
+.wrapper{
+    background-color: rgba(255, 202, 158, 0.61);
+    font-family: cursive;
+    font-size: 20px;
+    padding: 10px 25px;
+}
+.wrapper > .top{
+    display: block;
+    text-align: center;
+    color: blueviolet;
+    font-size: 40px;
+    padding: 10px;
+}
+.wrapper > .top:hover{
+    border: 3px double green;
+
+}
+
+
+ p{
     font-size: 30px;
     text-align: center;
     border: 3px double green;
 }
-li{
-    list-style: square;
-}
+
 a{
     color: #952626;
     text-decoration: none;
